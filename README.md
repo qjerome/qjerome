@@ -2,8 +2,8 @@
 
 My name is Quentin JÉRÔME, and I currently work as a Rust developer. With significant experience in incident response and threat detection, I develop open-source security tools and libraries to solve practical problems.
 
-Proficient in: Rust, Python, Go
-Familiar with: C/C++
+**Proficient in**: Rust, Python, Go
+**Familiar with**: C/C++
 
 ## My Usage of AI
 
